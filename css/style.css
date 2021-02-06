@@ -1,0 +1,8 @@
+/* Matches to ALL <h1> elements */
+/* Matches to ALL <h1> elements */
+* h1, h2{
+    color: blue;
+  }
+  body {
+    background-color: lightblue;
+  }
