@@ -7,3 +7,11 @@ body {
     background-size: 100% 100%;
     background-color: rgb(229,149,0);
   }
+nav {
+  position: sticky;
+  top: 0;
+}
+a:hover {
+  color: #bf616a;
+  text-decoration: underline #bf616a;
+}

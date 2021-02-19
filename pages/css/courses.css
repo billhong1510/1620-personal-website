@@ -9,4 +9,13 @@ h1{
 }
 p{
     font-family: 'Libre Baskerville', serif;
+    font-size: 25px;
+}
+nav {
+    position: sticky;
+    top: 0;
+  }
+a:hover {
+    color: #bf616a;
+    text-decoration: underline #bf616a;
 }
